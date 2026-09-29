@@ -18,7 +18,9 @@ FitBuddy is a simple fitness and health web application developed using Python a
 - HTML
 - CSS
 - JavaScript
+## Project Demo
 
+[![Watch the Demo](https://img.youtube.com/vi/n4bvu2aVj_4/maxresdefault.jpg)](https://youtu.be/n4bvu2aVj_4)
 ## Project Structure
 
 ```text
